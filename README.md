@@ -9,12 +9,14 @@ Faça o download do boilerplate com os pacotes:
 [Eslint](https://eslint.org/)
 | [Prettier](https://prettier.io/)
 | [Styled Components](https://styled-components.com/)
+| [PLOPjs](https://plopjs.com/)
 
 
 ## 🚀 How to use
 
 - yarn install
 - yarn start
+- yarn generate MyComponent
 
 ## 📝 Notes
 
